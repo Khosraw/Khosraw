@@ -1,7 +1,8 @@
 ### Hi there!
 
 ![Overview](https://github-readme-stats.vercel.app/api?username=Khosraw&count_private=true&theme=github_dark)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Khosraw&theme=github_dark&hide_border=true)<br/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Khosraw&hide_border=true&theme=github_dark)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khosraw&langs_count=8&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
