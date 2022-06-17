@@ -1,4 +1,5 @@
-### Hi there!
+## Hi there!
+### Discord: Khowy#6545
 
 ![Overview](https://github-readme-stats.vercel.app/api?username=Khosraw&count_private=true&theme=github_dark&hide_border=true)
 
