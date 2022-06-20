@@ -1,6 +1,13 @@
 ## Hi there!
 ### Discord: Khowy#6545
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khosraw&label=Profile%20views&color=0e75b6&style=flat" alt="khosraw" style="height: 20px; width: auto;"/> </p>
+
+- 📫 &nbsp; Drop me an [email](mailto:khosraw.azizi@gmail.com)
+
+<h3 align="left">Languages and Tools:</h3>
+
+
 ![Overview](https://github-readme-stats.vercel.app/api?username=Khosraw&count_private=true&theme=github_dark&hide_border=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Khosraw&theme=highcontrast&hide_border=true)<br/>
