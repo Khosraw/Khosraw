@@ -6,7 +6,7 @@
 - 📫 &nbsp; Drop me an [email](mailto:khosraw.azizi@gmail.com)
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://cdn.worldvectorlogo.com/download/adobe-xd-2.svg" alt="adobe-xd" width="40" height="40"/> </p>
+<p align="left"> <img src="https://worldvectorlogo.com/download/adobe-xd-2.svg" alt="adobe-xd" width="40" height="40"/> </p>
 
 ![Overview](https://github-readme-stats.vercel.app/api?username=Khosraw&count_private=true&theme=github_dark&hide_border=true)
 
