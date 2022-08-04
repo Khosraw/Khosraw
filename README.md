@@ -7,6 +7,8 @@
 
 ![Overview](https://github-readme-stats.vercel.app/api?username=Khosraw&count_private=true&theme=github_dark&hide_border=true)
 
+![Contribution](https://activity-graph.herokuapp.com/graph?username=ericspring08&theme=react-dark&hide_border=true&area=true)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Khosraw&theme=highcontrast&hide_border=true)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khosraw&langs_count=8&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
