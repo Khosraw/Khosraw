@@ -1,5 +1,5 @@
 ## Hi there!
-### Discord: Kho#8438
+### Discord: the_khoat
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khosraw&label=Profile%20views&color=0e75b6&style=flat" alt="khosraw" style="height: 20px; width: auto;"/> </p>
 
