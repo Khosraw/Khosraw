@@ -5,7 +5,7 @@
 
 - 📫 &nbsp; Drop me an [email](mailto:khosraw.azizi@gmail.com)
 
-![Overview](https://github-readme-stats-d.vercel.app/api?username=Khosraw&count_private=false&theme=github_dark&hide_border=true)
+![GitHub Readme Stats](https://github-readme-stats-d.vercel.app/api?username=Khosraw&count_private=false&theme=github_dark&hide_border=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Khosraw&theme=github_dark&hide_border=true)<br/>
 
