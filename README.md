@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/94d40fc2-413e-4413-afff-8003c142abd6)
+![sIWhyCq0bqizrSK7w674Hy9cmhY](https://github.com/user-attachments/assets/a4974724-64b9-4976-a9d2-4992d7f246fd)
 # Secant - Teacher and learn better.
 
 
