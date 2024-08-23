@@ -1,5 +1,6 @@
-![image](https://github.com/Khosraw/Khosraw/assets/53713571/a44a72e5-9031-4d95-8bce-9c078327ac74)
-# Codin - Supercharge your developer portfolio.
+![image](https://github.com/user-attachments/assets/94d40fc2-413e-4413-afff-8003c142abd6)
+# Secant - Teacher and learn better.
+
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=khosraw&label=Profile%20views&color=0e75b6&style=flat" alt="khosraw" style="height: 20px; width: auto;"/> </p>
 
