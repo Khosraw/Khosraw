@@ -1,5 +1,5 @@
-![sIWhyCq0bqizrSK7w674Hy9cmhY](https://github.com/user-attachments/assets/a4974724-64b9-4976-a9d2-4992d7f246fd)
-# Secant - Teacher and learn better.
+![image](https://github.com/user-attachments/assets/9676c844-073b-42e7-aa6f-99b0c3b2294e)
+# Pointer - Future of user assistance.
 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=khosraw&label=Profile%20views&color=0e75b6&style=flat" alt="khosraw" style="height: 20px; width: auto;"/> </p>
