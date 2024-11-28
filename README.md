@@ -17,6 +17,7 @@
 I'm **Khosraw**, locked in on a bunch of things.
 
 - 🔭 Working on cutting-edge user assistance tools.
+- 🏫 Freshman at UT Austin 🤘.
 - 🌱 Learning new technologies.
 - 💬 Ask me about software development, philosophy, history, politics, psychology... did I miss something?
 - 📫 Reach me at [khosraw@pointer.so](mailto:khosraw@pointer.so).
