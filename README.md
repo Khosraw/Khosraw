@@ -73,12 +73,6 @@ I'm **Khosraw**, locked in on a bunch of things.
 
 ---
 
-Let me know if you need more!
----
-
-Let me know if you need help adding these or tweaking them further!
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
