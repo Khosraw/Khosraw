@@ -20,7 +20,7 @@ I'm **Khosraw**, locked in on a bunch of things.
 - 🏫 Freshman at UT Austin🤘 studying CS & Philosophy.
 - 🌱 Learning new technologies.
 - 💬 Ask me about software development, philosophy, history, politics, psychology... did I miss something?
-- 📖 Favorite book: [The Tragedy of Great Power Politics](https://www.amazon.com/Tragedy-Great-Power-Politics-Updated/dp/0393349276)
+- 📖 Favorite book: [The Tragedy of Great Power Politics](https://www.amazon.com/Tragedy-Great-Power-Politics-Updated/dp/0393349276).
 - 📫 Reach me at [khosraw@pointer.so](mailto:khosraw@pointer.so).
 
 ---
