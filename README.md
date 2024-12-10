@@ -16,6 +16,7 @@
 
 I'm **Khosraw**, locked in on a bunch of things.
 
+- 🇦🇫 19 from Kabul, Afghanistan.
 - 🔭 Working on cutting-edge user assistance tools.
 - 🏫 Freshman at UT Austin🤘 studying CS & Philosophy.
 - 🌱 Learning new technologies.
