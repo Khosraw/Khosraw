@@ -59,6 +59,7 @@ I'm **Khosraw**, locked in on a bunch of things.
 ![OpenAPI Specification](https://img.shields.io/badge/OpenAPI_Specification-6BA539?style=for-the-badge&logo=openapi-initiative&logoColor=white)
 ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![PostHog](https://img.shields.io/badge/PostHog-FC3767?style=for-the-badge&logo=posthog&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635bff?style=for-the-badge&logo=stripe&logoColor=white)
 ![Resend](https://img.shields.io/badge/Resend-0F0F0F?style=for-the-badge&logo=resend&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
