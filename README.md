@@ -12,20 +12,6 @@
 
 ---
 
-## 👋 About Me
-
-I'm **Khosraw**, locked in on a bunch of things.
-
-- 🇦🇫 19 from Kabul, Afghanistan.
-- 🔭 Working on cutting-edge user assistance tools.
-- 🏫 Freshman at UT Austin🤘 studying CS & Philosophy.
-- 🌱 Learning new technologies.
-- 💬 Ask me about software development, philosophy, history, politics, psychology... did I miss something?
-- 📖 Favorite book: [The Tragedy of Great Power Politics](https://www.amazon.com/Tragedy-Great-Power-Politics-Updated/dp/0393349276).
-- 📫 Reach me at [khosraw@pointer.so](mailto:khosraw@pointer.so).
-
----
-
 ## 🛠️ What I've Worked With
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
