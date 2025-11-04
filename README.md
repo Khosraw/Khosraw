@@ -3,7 +3,7 @@
   <img src="https://github.com/user-attachments/assets/9676c844-073b-42e7-aa6f-99b0c3b2294e" alt="Pointer Logo" width="200"/>
 </p>
 
-<h1 align="center">Pointer - Contextual, in-app user assistance.</h1>
+<h1 align="center">Pointer - Making your product feel effortless.</h1>
 
 <!-- Profile Views -->
 <p align="center">
